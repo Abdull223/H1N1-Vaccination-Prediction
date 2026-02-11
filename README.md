@@ -51,7 +51,7 @@ Based on the model insights, we recommend the following strategies for the DPH:
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 The **Tuned Random Forest model** allows the DPH to transition from broad outreach to targeted, evidence-based interventions. By optimizing for **Recall**, we ensure that limited resources are directed toward the specific drivers that increase community immunity and save lives.
 
 ---
@@ -61,5 +61,5 @@ The **Tuned Random Forest model** allows the DPH to transition from broad outrea
 * `data/`: Directory containing the survey datasets.
 * `README.md`: Project summary and findings.
 
-### 👤 Author
+### Author
 **Abdullahi Abdi Hassan** *BSc Statistics Graduate | Data Science Student at Moringa School*
